@@ -1,0 +1,1 @@
+https://huggingface.co/spaces/sihar/shoes_adidas_nike_image_detections
